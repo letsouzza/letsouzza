@@ -2,10 +2,7 @@
 <div align="center">
    <h1>
       Letícia Souza Almeida
-   </h>
-<br> 
-   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielxs_ss_/)
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
+   </h1>
 </div>
 
 <div align="center">
